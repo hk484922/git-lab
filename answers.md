@@ -83,3 +83,52 @@ Untracked files:
 
 
 Answer 6:
+On branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   README.md
+        new file:   answers.md
+
+
+Answers 7:
+On branch master
+nothing to commit, working tree clean
+
+
+Answer 8:
+commit e7f60ff1bb7aba1c605f882375a48e615337fc4b (HEAD -> master)
+Author: hk484922 <hk484922@ohio.edu>
+Date:   Tue Sep 5 16:35:49 2023 -0400
+
+    Initial commit
+
+
+Answer 9:
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+Answer 10:
+The changes made to README.md were not updated in my local copy of the file.
+
+
+Answer 11:
+ ! [rejected]        main -> main (fetch first)
+error: failed to push some refs to 'https://github.com/hk484922/git-lab.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+
+Answer 12:
+The changes I made online did get added to README.md after the git pull command
+
+Answer 13:
+.  ..  .git  .gitignore  README.md
+
